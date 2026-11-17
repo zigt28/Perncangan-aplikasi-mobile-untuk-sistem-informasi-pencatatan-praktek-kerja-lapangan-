@@ -1,0 +1,6 @@
+{
+  "name": "JurnalPKL — Sistem Pencatatan PKL Mobile",
+  "description": "Perancangan aplikasi mobile dan prototipe interaktif untuk sistem pencatatan, presensi geofence, logbook harian, serta validasi pembimbing Praktek Kerja Lapangan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
